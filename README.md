@@ -36,7 +36,7 @@ daily_routine(dev)
   <a href="https://www.instagram.com/ho3ein._.gz?igsh=MTM5am1saTVmZGU5cA==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://t.me/hosseingz">
+  <a href="https://t.me/ho3eingz">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
