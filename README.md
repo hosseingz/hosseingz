@@ -7,7 +7,7 @@ dev = Developer(
     name='Hossein Gasemzadeh',
     birth_day='20 Dec',
     languages=['Python', 'HTML', 'CSS', 'JavaScript'],
-    skills=['Django', 'PostgreSQL', 'REST API', 'Docker']
+    skills=['Django', 'PostgreSQL', 'Docker', 'REST API', 'GraphQL']
 )
 
 # A day in the life of a developer
